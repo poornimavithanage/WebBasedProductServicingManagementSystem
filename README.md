@@ -28,7 +28,7 @@ links :
 * Next is the ‘WampServer Setup Wizard’ screen as shown. Click ‘Next’ to continue the installation
 
 ## WampServer Setup
-![Ait text](src/screenShots/wampserver_setup.png)
+![Ait text](application/screenShots/wampserver_setup.png)
 
 * The next screen presented is the ‘License Agreement’. Read the agreement, click the radio button next to ‘I accept the agreement’ and then click ‘Next’ to continue the installation.
 * Next is the ‘Select Destination Location’ screen. Unless you would like to install WampServer on another drive, you should not need to change anything. Click ‘Next’ to continue.
@@ -36,7 +36,7 @@ links :
 * Next is the ‘Install’ screen. You can review your setup choices, and change any of them by clicking ‘Back’ to the appropriate screen.Once you have reviewed your choices, click ‘Install’ to continue.
 
 ## Install Screen
-![Ait text](src/screenShots/InstallScreen.png)
+![Ait text](application/screenShots/InstallScreen.png)
 
 * WampServer will begin extracting files to the location you selected.
 * Once the installation is done, select your default web browser for WampServer among the following.
@@ -63,31 +63,31 @@ e-mail : vithanagepurnima@gmail.com
 [Github] (https://github.com/poornimavithanage)
 
 ## Login Form
-![Ait text](src/screenShots/LoginPage.png)
+![Ait text](application/screenShots/LoginPage.png)
 
 ## Customer Registration
-![Ait text](src/screenShots/customerRegistration.png)
+![Ait text](application/screenShots/customerRegistration.png)
 
 ## Supplier Registration
-![Ait text](src/screenShots/supplierRegistration.png)
+![Ait text](application/screenShots/supplierRegistration.png)
 
 ## Supplier Detail View
-![Ait text](src/screenShots/supplierDetailView.png)
+![Ait text](application/screenShots/supplierDetailView.png)
 
 ## Job Card
-![Ait text](src/screenShots/job_card.png)
+![Ait text](application/screenShots/job_card.png)
 
 ## Manage Technicians
-![Ait text](src/screenShots/TechnicalAssignQueue.png)
+![Ait text](application/screenShots/TechnicalAssignQueue.png)
 
 ## Customer Web Portal
-![Ait text](src/screenShots/webportalStack.png)
+![Ait text](application/screenShots/webportalStack.png)
 
 ## SMS 
-![Ait text](src/screenShots/SMS.png)
+![Ait text](application/screenShots/SMS.png)
 
 ## File Structure
-![Ait text](src/screenShots/filestructure.png)
+![Ait text](application/screenShots/filestructure.png)
 
 ## License
 

@@ -6,4 +6,9 @@ application/cache/*
 
 application/logs/*
 !application/logs/index.html
-!application/logs/.htaccess
+!
+
+.idea/
+README.md/
+LICENSE.txt/
+.travis.yml/
