@@ -51,7 +51,7 @@ links :
 
 ## Technologies
 > PHP | 
-> CodeIniter | 
+> CodeIgniter | 
 > MVC Architecture |
 
 ## Contributors
